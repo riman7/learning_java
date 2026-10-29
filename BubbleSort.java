@@ -1,6 +1,10 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
+
+//Time complexicity: worst case: O(n^2)
+// Best case: O(n)
+//inplace and stable
 public class BubbleSort {
 
     public static int[] bubbleSort(int[] arr){
